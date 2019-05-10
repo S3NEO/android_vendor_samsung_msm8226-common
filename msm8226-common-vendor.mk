@@ -41,11 +41,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/msm8226-common/proprietary/vendor/lib/libllvm-qcom.so:system/vendor/lib/libllvm-qcom.so \
     vendor/samsung/msm8226-common/proprietary/vendor/lib/libloc_api_v02.so:system/vendor/lib/libloc_api_v02.so \
     vendor/samsung/msm8226-common/proprietary/vendor/lib/libloc_ds_api.so:system/vendor/lib/libloc_ds_api.so \
-    vendor/samsung/msm8226-common/proprietary/vendor/lib/hw/gps.msm8226.so:system/vendor/lib/hw/gps.msm8226.so \
-    vendor/samsung/msm8226-common/proprietary/vendor/lib/libloc_core.so:system/vendor/lib/libloc_core.so \
-    vendor/samsung/msm8226-common/proprietary/vendor/lib/libloc_eng.so:system/vendor/lib/libloc_eng.so \
-    vendor/samsung/msm8226-common/proprietary/vendor/lib/libgps.utils.so:system/vendor/lib/libgps.utils.so \
-    vendor/samsung/msm8226-common/proprietary/vendor/lib/liblocationservice.so:system/vendor/lib/liblocationservice.so \
     vendor/samsung/msm8226-common/proprietary/vendor/lib/librs_adreno.so:system/vendor/lib/librs_adreno.so \
     vendor/samsung/msm8226-common/proprietary/vendor/lib/librs_adreno_sha1.so:system/vendor/lib/librs_adreno_sha1.so \
     vendor/samsung/msm8226-common/proprietary/vendor/lib/libsc-a3xx.so:system/vendor/lib/libsc-a3xx.so \
